@@ -20,6 +20,10 @@ a {
   transition: all 0.3s ease;
   color: #38B;
 }
+b {
+  transition: all 0.3s ease;
+  color: #38B;
+}
 
 a:hover,
 a:focus {
